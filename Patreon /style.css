@@ -20,7 +20,7 @@ img {
 
       
 .section-landing {
-    height: 70vh;
+    height: 75vh;
 }
 
 
@@ -33,4 +33,7 @@ img {
     
 .section2 {
     width: 50vw;
+}
+.section-button-landing {
+    width: 90vw;
 }
