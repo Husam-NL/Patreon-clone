@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    font-family: Questrial;
+    font-size: 100%;
+    color: black;
+}
+
+ul {
+    font-size: 0.875rem;
+    color: black;
+}
+img {
+    width: 50%;
+}
+.section-landing {
+    height: 60vh;
+}
+    
