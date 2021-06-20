@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 html {
-    font-family: Questrial;
+    font-family: Arimo, sans-serif;
     font-size: 100%;
     color: black;
 }
@@ -11,10 +11,26 @@ ul {
     font-size: 0.875rem;
     color: black;
 }
-img {
-    width: 50%;
-}
-.section-landing {
-    height: 60vh;
-}
     
+img {
+    max-width: 400px;
+        
+}
+
+
+      
+.section-landing {
+    height: 70vh;
+}
+
+
+.section1 {
+    width:50vw
+}
+
+
+
+    
+.section2 {
+    width: 50vw;
+}
